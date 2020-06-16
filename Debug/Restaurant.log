@@ -1,0 +1,104 @@
+﻿  CancellationEvent.cpp
+  CMUgraphics.cpp
+D:\Spring 2020\Restaurant\CMUgraphicsLib\CMUgraphics.cpp(751,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Spring 2020\Restaurant\CMUgraphicsLib\CMUgraphics.cpp(1164,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Spring 2020\Restaurant\CMUgraphicsLib\CMUgraphics.cpp(1171,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Spring 2020\Restaurant\CMUgraphicsLib\CMUgraphics.cpp(1202,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Spring 2020\Restaurant\CMUgraphicsLib\CMUgraphics.cpp(1210,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Spring 2020\Restaurant\CMUgraphicsLib\CMUgraphics.cpp(1357,23): warning C4018: '>': signed/unsigned mismatch
+  colors.cpp
+  image.cpp
+D:\Spring 2020\Restaurant\CMUgraphicsLib\image.cpp(115,29): warning C4018: '<': signed/unsigned mismatch
+  keyqueue.cpp
+  mousequeue.cpp
+  windowinput.cpp
+  Demo_Main.cpp
+  Event.cpp
+  ArrivalEvent.cpp
+D:\Spring 2020\Restaurant\Events\ArrivalEvent.cpp(43,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PriorityQueue.cpp
+  GUI.cpp
+  Heap.cpp
+  PromotionEvent.cpp
+D:\Spring 2020\Restaurant\PromotionEvent.cpp(10,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\PromotionEvent.cpp(12,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Cook.cpp
+D:\Spring 2020\Restaurant\Rest\Cook.cpp(61,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Cook.cpp(65,9): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Cook.cpp(95,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Order.cpp
+  Restaurant.cpp
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(35,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(80,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(83,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(89,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(90,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(91,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(91,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(114,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(114,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(115,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(115,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(119,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(136,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(136,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(137,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(137,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(140,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(164,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(165,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(173,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(219,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(231,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(242,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(263,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(277,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(291,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(313,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(542,3): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(578,3): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(997,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(1010,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(1021,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(1040,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2020\Restaurant\Rest\Restaurant.cpp(1060,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+D:\Spring 2020\Restaurant\Generic_DS\PriorityQueue.cpp(177): warning C4715: 'PriorityQueue<Order *>::enqueue': not all control paths return a value
+  jpegload.c
+D:\Spring 2020\Restaurant\CMUgraphicsLib\jpegload.c(23,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jcomapi.c
+  jcparam.c
+  jdapimin.c
+  jdapistd.c
+  jdatasrc.c
+  jdcoefct.c
+  jdcolor.c
+  jddctmgr.c
+  jdhuff.c
+  jdinput.c
+  jdmainct.c
+  jdmarker.c
+  jdmaster.c
+  jdmerge.c
+  jdphuff.c
+  jdpostct.c
+  jdsample.c
+  jdtrans.c
+  jerror.c
+D:\Spring 2020\Restaurant\CMUgraphicsLib\jpeg\jerror.c(169,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Spring 2020\Restaurant\CMUgraphicsLib\jpeg\jerror.c(171,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  Compiling...
+  jidctflt.c
+  jidctfst.c
+  jidctint.c
+  jidctred.c
+  jmemmgr.c
+D:\Spring 2020\Restaurant\CMUgraphicsLib\jpeg\jmemmgr.c(1103,19): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Spring 2020\Restaurant\CMUgraphicsLib\jpeg\jmemmgr.c(1106,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jmemnobs.c
+  jquant1.c
+  jquant2.c
+  jutils.c
+  Generating Code...
+  Restaurant.vcxproj -> D:\Spring 2020\Debug\Restaurant.exe
